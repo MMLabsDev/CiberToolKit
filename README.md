@@ -1,4 +1,4 @@
-# CiberToolKit (BETA)
+# CiberToolKit v1.0
 SPDX-License-Identifier: MIT
 
 Una herramienta de usos múltiples para facilitar tareas de ciberseguridad y automatización de tareas.
@@ -18,6 +18,7 @@ Una herramienta de usos múltiples para facilitar tareas de ciberseguridad y aut
 ## Tecnologías usadas
 
 * Python 3
+* request
 * Rich
 * pyperclip
 
