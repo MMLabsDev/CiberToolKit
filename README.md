@@ -25,9 +25,8 @@ Una herramienta de usos múltiples para facilitar tareas de ciberseguridad y aut
 ## 🔖 Nota:
 * Este programa solo ha sido experimentado en versiones mayores a windows 10.
 * Antes de probar el programa, se recomienda asegurarse de que se tenga actalizado e instalado `Rich` y `Pyperclip` en su pc.
-
-##​  💡 Objetivo
-
+---
+##​ 💡 Objetivo:
 Hice este proyecto con la intención de aprender a usar las librerías especializadas en redes y utilidades de ciberseguridad en python. Manejo de interfases en terminal y manejo de módulos.
 ---
 
