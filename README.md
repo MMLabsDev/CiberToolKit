@@ -2,6 +2,7 @@
 SPDX-License-Identifier: MIT
 
 Una herramienta de usos múltiples para facilitar tareas de ciberseguridad y automatización de tareas relacionadas a la ciberseguridad.
+> Nota🚧: Aún en mantenimiento...
 ---
 ## Características
 
@@ -29,7 +30,7 @@ Una herramienta de usos múltiples para facilitar tareas de ciberseguridad y aut
 ---
 ##​ 💡 Objetivo:
 
-Hice este proyecto con la intención de aprender y perfeccionarme en el usi de las librerías especializadas en redes y utilidades de ciberseguridad en python.
+Hice este proyecto con la intención de aprender y perfeccionarme en el uso de las librerías especializadas en redes y utilidades de ciberseguridad en python.
 ---
 
 Hecho con desvelo, dedicación y muchas tazas de café☕.
