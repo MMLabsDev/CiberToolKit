@@ -1,8 +1,8 @@
 # CiberToolKit v1.0
 SPDX-License-Identifier: MIT
 
-Una herramienta de usos múltiples para facilitar tareas de ciberseguridad y automatización de tareas.
-
+Una herramienta de usos múltiples para facilitar tareas de ciberseguridad y automatización de tareas relacionadas a la ciberseguridad.
+---
 ## Características
 
 * Information Gathering
@@ -16,12 +16,13 @@ Una herramienta de usos múltiples para facilitar tareas de ciberseguridad y aut
 <img width="363" height="267" alt="image" src="https://github.com/user-attachments/assets/f8feab76-1252-46c5-8313-206031c93805" />
 
 ## Tecnologías usadas
+---
 
 * Python 3
 * request
 * Rich
 * pyperclip
-
+---
 ## 🔖 Nota:
 * Este programa solo ha sido experimentado en versiones mayores a windows 10.
 * Antes de probar el programa, se recomienda asegurarse de que se tenga actalizado e instalado `Rich` y `Pyperclip` en su pc.
