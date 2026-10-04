@@ -49,16 +49,32 @@ def pedir_opcion(mensaje):
 def menu():
     """Menú principal."""
     print("""
-╔══════════════════════════════════════╗
-║          CiberToolKit                ║
-║      Cybersecurity Toolkit           ║
-╠══════════════════════════════════════╣
-║  [1] Information Gathering           ║
-║  [2] Encoding / Decoding             ║
-║  [3] Hash Tools                      ║
-║  [4] Network Utilities               ║
-║  [5] Exit                            ║
-╚══════════════════════════════════════╝
+██╗   ██╗████████╗██╗  ██╗
+╚██╗ ██╔╝╚══██╔══╝██║ ██╔╝
+ ╚████╔╝    ██║   █████╔╝
+  ╚██╔╝     ██║   ██╔═██╗
+   ██║      ██║   ██║  ██╗
+   ╚═╝      ╚═╝   ╚═╝  ╚═╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+       C I B E R T O O L K I T
+       CYBERSECURITY TOOLKIT • V1.0
+       by M.MLabs.Dev
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ┌─[ MAIN MENU ]
+  │
+  ├── ∎ [01] Information Gathering
+  ├── ∎ [02] Encoding / Decoding
+  ├── ∎ [03] Hash Tools
+  ├── ∎ [04] Network Utilities
+  ├── ∎ [05] Exit
+  │
+  └──[root@cibertoolkit]─> _
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+       SYSTEM STATUS: READY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 """)
 
 
