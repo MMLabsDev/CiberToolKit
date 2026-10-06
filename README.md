@@ -1,4 +1,4 @@
-# CiberToolKit v1.0
+# CiberToolKit v2.0
 SPDX-License-Identifier: MIT
 
 Una herramienta de usos múltiples para facilitar tareas de ciberseguridad y automatización de tareas relacionadas a la ciberseguridad.
@@ -10,6 +10,7 @@ Una herramienta de usos múltiples para facilitar tareas de ciberseguridad y aut
 * Encoding / Decoding
 * Hash Tools
 * Network Utilities
+* Una interfaz bonita que yo mismo hice😎.
 
 ## Vista previa:
 ---
@@ -21,15 +22,17 @@ Una herramienta de usos múltiples para facilitar tareas de ciberseguridad y aut
 ---
 
 * Python 3
-* request
+* requests
 * Rich
 * pyperclip
 ---
 ## 🔖 Nota:
 * Este programa solo ha sido experimentado en versiones mayores a windows 10.
-* Antes de probar el programa, se recomienda asegurarse de que se tenga actalizado e instalado `Rich` y `Pyperclip` en su pc.
+* Antes de probar el programa, se recomienda asegurarse de que se tenga actalizado e instalado `Rich`, `Pyperclip` y `Requests` en su pc.
+  (Me esforzaré por convertirlo en un archivo.exe al menos)
 ---
-##​ 💡 Objetivo:
+
+## 💡 Objetivo:
 
 Hice este proyecto con la intención de aprender y perfeccionarme en el uso de las librerías especializadas en redes y utilidades de ciberseguridad en python.
 ---
