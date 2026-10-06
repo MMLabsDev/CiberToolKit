@@ -14,7 +14,7 @@ Una herramienta de usos múltiples para facilitar tareas de ciberseguridad y aut
 
 ## Vista previa:
 ---
-<img width="1482" height="987" alt="image" src="https://github.com/user-attachments/assets/c64269c2-fcd6-4227-a0f0-b0d7a0f56265" />
+<img width="1487" height="994" alt="image" src="https://github.com/user-attachments/assets/c5a2e566-2b64-4e0b-9782-4843175b0ca3" />
 
 <img width="363" height="267" alt="image" src="https://github.com/user-attachments/assets/f8feab76-1252-46c5-8313-206031c93805" />
 
