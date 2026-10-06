@@ -25,6 +25,7 @@ Una herramienta de usos múltiples para facilitar tareas de ciberseguridad y aut
 * requests
 * Rich
 * pyperclip
+* VScode
 ---
 ## 🔖 Nota:
 * Este programa solo ha sido experimentado en versiones mayores a windows 10.
