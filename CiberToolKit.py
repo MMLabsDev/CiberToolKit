@@ -637,10 +637,10 @@ def main():
             Panel.fit(
                 "[bold bright_green]CiberToolKit[/]\n"
                 "[dim]Cybersecurity Toolkit[/]\n\n"
-                "[bold]Current version: v1.0[/]",
+                "[bold]Current version: v2.0[/]",
                 border_style="bright_green",
                 title="[ M.M.Labs.Dev ]",
-                subtitle="v1.0"
+                subtitle="v2.0"
             )
         )
 
